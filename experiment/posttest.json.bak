@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "A hydraulic press has a ram of 25cm diameter and plunger of 4.2cm diameter. Find the weight to be lifted by hydraulic press when force of 495N is applied on the plunger.",
+        "qid": 1,
+        "option_a": "17360.35 N",
+        "option_b": "17900.45 N",
+        "option_c": "15854.20 N",
+        "option_d": "18437.74 N",
+        "correct_option": "a"
+    },
+    {
+        "question": "A hydraulic press has a ram of 27cm diameter and plunger of 4.6cm diameter. Find the weight to be lifted by hydraulic press when force of 469N is applied on the plunger.",
+        "qid": 2,
+        "option_a": "12754.88 N",
+        "option_b": "14898.054 N",
+        "option_c": "15808.058 N",
+        "option_d": "16957.547 N",
+        "correct_option": "c"
+    }
+]
